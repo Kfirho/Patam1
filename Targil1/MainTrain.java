@@ -20,7 +20,7 @@ public class MainTrain {
 			System.out.println("BinaryExpression does not have correct fields (-10)"); // -10
 		}
 		
-		System.out.println("Hello, world!");
+		System.out.println("done");
 	}
 
 }
